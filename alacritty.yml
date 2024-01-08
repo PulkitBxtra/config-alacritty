@@ -1,0 +1,14 @@
+import:
+  - ~/.config/alacritty/aura-theme.yml
+
+# Font config:
+font:
+  # Normal (roman):
+  normal:
+    family: 'BitstromWera Nerd Font'
+    style: Regular
+
+
+
+  size: 13.0
+
